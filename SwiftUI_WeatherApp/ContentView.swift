@@ -89,7 +89,6 @@ struct BackgroundView: View {
                        endPoint: .bottomTrailing)
         .edgesIgnoringSafeArea(.all)
     }
-    
 }
 
 struct CityTextView: View {
